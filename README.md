@@ -5,7 +5,7 @@ Hi, I'm Ashley Entrada! I'm a Computer Science student with hands-on experience 
 ## Key Projects
 Here are some of the projects I've worked on:
 
-[La Maja Building Billing and Visitor Management System](https://github.com/username/project1)
+[La Maja Building Billing and Visitor Management System](https://drive.google.com/drive/folders/1dh20FatWo-NG5cTLS-FlNbqXMhByBUkQ?usp=drive_link)
 
   ![Image Description](https://github.com/ashyelili/Entrada-Portfolio/blob/main/LaMaja.jpg)
   A desktop-based system designed to manage apartment rooms, monitor visitor logs, and streamline tenant billing. This project helps improve administrative efficiency for property managers.
