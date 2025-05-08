@@ -1,24 +1,26 @@
-# Welcome to My GitHub Portfolio
+# Ashley Entrada - GitHub Portfolio
 
-Hi, I'm [Your Name]! I'm a [your profession or focus area] with experience in [languages, frameworks, etc.].
+Hi, I'm Ashley Entrada! I'm a Computer Science student with hands-on experience in developing web-based and desktop applications using a variety of technologies. I'm passionate about building solutions that improve processes and user experience.
 
-## Projects
+## Key Projects
 Here are some of the projects I've worked on:
 
 [La Maja Building Billing and Visitor Management System](https://github.com/username/project1)
 
-  ![Image Description](https://github.com/alfrdrose/Garcia-Portfolio/blob/main/LaMaja.jpg)
-  An application designed to manage rooms, tenants, bills, and visitors. The system helps streamline billing, track visitors, and keep everything organized.
+  ![Image Description](https://github.com/ashyelili/Entrada-Portfolio/blob/main/LaMaja.jpg)
+  A desktop-based system designed to manage apartment rooms, monitor visitor logs, and streamline tenant billing. This project helps improve administrative efficiency for property managers.
+  
 [Incident Management System for Arellano University](https://drive.google.com/drive/folders/1bs0sL_xyoRpybE_L90s9NhbV3OgnHUPr?usp=drive_link)
 
- ![Image Description](https://github.com/alfrdrose/Garcia-Portfolio/blob/main/Incident.jpg)
- A system built to manage and track incidents within Arellano University. It ensures incidents are reported, followed up, and resolved efficiently.
+ ![Image Description](https://github.com/ashyelili/Entrada-Portfolio/blob/main/Incident.jpg)
+ Developed for efficient incident reporting and monitoring within a university setting. The system ensures that cases are logged, tracked, and resolved systematically.
+ 
 [Advising Management System for Arellano University](https://drive.google.com/drive/folders/1bDuyh2tm2psY9MMT66GYYTdyaKc3vW_w?usp=drive_link)
 
-  ![Image Description](https://github.com/alfrdrose/Garcia-Portfolio/blob/main/advising.jpg)
-  A comprehensive advising management tool used to schedule, track, and manage student advisement sessions, improving student-advisor interactions.
+  ![Image Description](https://github.com/ashyelili/Entrada-Portfolio/blob/main/advising.jpg)
+  A web-based tool developed to help manage student advising sessions by automating schedules and improving the advisor-student communication process.
 
-## Skills
+## Technical Skills
 - Web Development: HTML, CSS, JavaScript, PHP
 - Proficiency in Programming Languages: Python, Java, C#, C
 - Graphics Design: Photoshop, Canva
@@ -26,6 +28,7 @@ Here are some of the projects I've worked on:
 - Version control & deployment: XAMPP, Visual Studio
 - Database Management: MySql, phpMyAdmin 
 
-
 ## Contact
-Feel free to reach out to me via Gmail - danalfredgarcia02@gmail.com
+Feel free to get in touch with me for collaboration or opportunities:
+
+📧 Email: ashleyentrada@gmail.com
